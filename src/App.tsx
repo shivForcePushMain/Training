@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <div>
-      neeche landing page:
+      Main
     </div>
     <LandingPage/>
     <Counter/>
