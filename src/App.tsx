@@ -8,8 +8,8 @@ function App() {
   return (
     <>
     <div>
-      FIxed git
-    </div>
+      breaking git    
+      </div>
     <LandingPage/>
     <Counter/>
     <InfoPage/>
