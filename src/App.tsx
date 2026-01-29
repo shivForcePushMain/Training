@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <div>
-      FIxed git
+      SHIV"S 
     </div>
     <LandingPage/>
     <Counter/>
