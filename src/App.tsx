@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <div>
-      Main
+      FIxed git
     </div>
     <LandingPage/>
     <Counter/>
