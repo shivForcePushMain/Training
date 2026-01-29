@@ -10,6 +10,9 @@ function App() {
     <div>
       SHIV"S 
     </div>
+    <div>
+      SHIV"S shiv's commit 2
+    </div>
     <LandingPage/>
     <Counter/>
     <InfoPage/>
