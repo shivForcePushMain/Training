@@ -1,6 +1,7 @@
 import './App.css'
 import LandingPage from './components/LandingPage'
 import Counter from './components/Counter'
+import InfoPage from './components/InfoPage'
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     </div>
     <LandingPage/>
     <Counter/>
+    <InfoPage/>
     </>
   )
 }
